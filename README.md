@@ -1,6 +1,8 @@
 ParseSaveLoadDemo
 =================
 
+[![endorse](https://api.coderwall.com/cmdann/endorsecount.png)](https://coderwall.com/cmdann)
+
 A demo app for RRC BIT Final Term Mobile Development. This app connects to parse.com, registers your device and saves data in key value pairs to Parse. 
 
 Links:
